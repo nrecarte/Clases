@@ -4,8 +4,8 @@
 // Mon Sep 09 19:32:03 PDT 2013
 //----------------------------------------------------
 
+import Statements.Valores;
 import java_cup.runtime.*;
-import ArbolSentencia.*;
 
 /** CUP v0.11a beta 20060608 generated parser.
   * @version Mon Sep 09 19:32:03 PDT 2013
