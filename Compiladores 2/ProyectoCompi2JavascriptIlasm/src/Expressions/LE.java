@@ -11,7 +11,7 @@ import Types.Bool;
 
 /**
  *
- * @author SergioJavier
+ * @author Noel Recarte
  */
 public class LE extends BinaryOperator {
 

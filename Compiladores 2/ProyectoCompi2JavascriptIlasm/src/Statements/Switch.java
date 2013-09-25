@@ -8,7 +8,7 @@ import Expressions.Expression;
 
 /**
  *
- * @author SergioJavier
+ * @author Noel Recarte
  */
 public class Switch extends Statement{
     

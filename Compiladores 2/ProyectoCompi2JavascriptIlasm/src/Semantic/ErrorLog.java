@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author SergioJavier
+ * @author Noel Recarte
  */
 public class ErrorLog {
     

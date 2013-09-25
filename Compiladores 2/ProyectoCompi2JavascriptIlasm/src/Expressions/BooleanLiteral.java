@@ -8,7 +8,7 @@ import Types.Bool;
 
 /**
  *
- * @author SergioJavier
+ * @author Noel Recarte
  */
 public class BooleanLiteral extends Literal {
     
